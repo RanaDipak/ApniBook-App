@@ -1,5 +1,12 @@
 # ApniBook Business Management App - Complete Features Documentation
 
+<!-- APK Download Section -->
+## 📦 Download APK
+
+[![Download Latest APK](https://img.shields.io/badge/Download-APK-blue?logo=android)](apk/ApniBook-App.apk)
+
+*Click the button above to download the latest version of the ApniBook app for Android.*
+
 ## 📱 App Overview
 
 **ApniBook** is a comprehensive Flutter-based business management application designed to help small businesses manage their clients, track transactions, manage inventory, and generate reports. The app uses Firebase as the backend and follows clean architecture principles with BLoC pattern for state management.
