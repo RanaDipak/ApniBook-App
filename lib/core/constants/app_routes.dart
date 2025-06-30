@@ -1,5 +1,4 @@
-
-class AppContext {
+class AppRoutes {
   static const String splashRoute = '/splash';
   static const String homeRoute = '/home';
   static const String clientBookRoute = '/client-book';

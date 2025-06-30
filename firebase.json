@@ -1,0 +1,21 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "apnibook-app",
+                    "appId": "1:327825100181:android:6e8f085d86c74d95cefa9c",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "apnibook-app",
+                    "configurations": {
+                        "android": "1:327825100181:android:6e8f085d86c74d95cefa9c"
+                    }
+                }
+            }
+        }
+    }
+}
